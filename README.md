@@ -62,6 +62,8 @@
 | 编译原理           | [link](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main/IIIB%20编译原理) |
 | 计算机系统结构     | [link](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main/IIIB%20计算机系统结构) |
 | 大数据系统综合实践 | [link](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main/IVA%20大数据系统综合实践) |
+| 数字图像处理       | [link](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main/IIIB%20数字图像处理) |
+| 社会网络与计算     | [link](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main/IVA%20社会网络与计算) |
 
 ### 实践课程
 | 课程名称         | 链接                                                         |
